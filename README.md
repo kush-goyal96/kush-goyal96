@@ -5,7 +5,7 @@
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I'm a final year CSE student from Vellore Institute of Technology, Vellore.
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning fullstack development and some security.
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Reach out to me on <a href="https://www.linkedin.com/in/kushgoyal96/">Linkedin</a>.
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: goyalkush096@gmail.com
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; Mail me at: goyalkush096@gmail.com
 
 
 ### <samp>&gt; Socials
